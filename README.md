@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Talbot3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Here are some ideas to get you started:
+
+- 🔭 I'm looking for like-minded friends to work with
+- 🌱 I’m currently learning AIGC
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: 4wunian@gmail.com
 
 <!---
 Talbot3/Talbot3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
